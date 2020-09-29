@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=dkbozkurt&show_icons=true">
 
-# Hi there,I'm Doğukan Kaan Bozkurt 👋
+# Hi there, I'm Doğukan Kaan Bozkurt 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dkbozkurt" alt="dkbozkurt" /> </p>
 
 
@@ -12,6 +12,6 @@
 # Interests
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
 [![](https://img.shields.io/badge/pytorch-cD1?style=for-the-badge&logo=Pytorch)]()
-[![](https://img.shields.io/badge/Tensorflow-cD1?style=for-the-badge&logo=tensorflow)]()
+[![](https://img.shields.io/badge/C-cD1?style=for-the-badge&logo=C)]()
 [![](https://img.shields.io/badge/keras-cD1?style=for-the-badge&logo=keras)]()
 [![](https://img.shields.io/badge/flask-cD1?style=for-the-badge&logo=flask)]()
