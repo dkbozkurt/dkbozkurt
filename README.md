@@ -12,6 +12,5 @@
 # Interests
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
 [![](https://img.shields.io/badge/pytorch-cD1?style=for-the-badge&logo=Pytorch)]()
+[![](https://img.shields.io/badge/C++-cD1?style=for-the-badge&logo=C)]()
 [![](https://img.shields.io/badge/C-cD1?style=for-the-badge&logo=C)]()
-[![](https://img.shields.io/badge/keras-cD1?style=for-the-badge&logo=keras)]()
-[![](https://img.shields.io/badge/flask-cD1?style=for-the-badge&logo=flask)]()
