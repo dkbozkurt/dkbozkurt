@@ -20,5 +20,4 @@
 [![](https://img.shields.io/badge/C-cD1?style=for-the-badge&logo=C)]()
 [![](https://img.shields.io/badge/Unity-cD1?style=for-the-badge&logo=Unity)]()
 [![](https://img.shields.io/badge/Octave-cD1?style=for-the-badge&logo=Octave)]()
-[![](https://img.shields.io/badge/Octave-cD1?style=for-the-badge&logo=MATLAB)]()
 [![](https://img.shields.io/badge/Photoshop-cD1?style=for-the-badge&logo=Adobe%20Photoshop)]()
