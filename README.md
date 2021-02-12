@@ -12,8 +12,11 @@
 
 # Interests
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
+[![](https://img.shields.io/badge/SciPy-cD1?style=for-the-badge&logo=SciPy)]()
 [![](https://img.shields.io/badge/pytorch-cD1?style=for-the-badge&logo=Pytorch)]()
-[![](http://img.shields.io/badge/C++-cD1?style=for-the-badge&logo=C%20Sharp)]()
+[![](https://img.shields.io/badge/NumPy-cD1?style=for-the-badge&logo=NumPy)]()
+[![](http://img.shields.io/badge/C++-cD1?style=for-the-badge&logo=C%2B%2B)]()
+[![](https://img.shields.io/badge/C%23-cD1?style=for-the-badge&logo=C%20Sharp)]()
 [![](https://img.shields.io/badge/C-cD1?style=for-the-badge&logo=C)]()
 [![](https://img.shields.io/badge/Octave-cD1?style=for-the-badge&logo=Octave)]()
 [![](https://img.shields.io/badge/Photoshop-cD1?style=for-the-badge&logo=Adobe%20Photoshop)]()
