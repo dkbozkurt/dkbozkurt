@@ -11,13 +11,13 @@
 [![Mail Badge](https://img.shields.io/badge/dkaanbozkurt@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dkaanbozkurt@gmail.com)](mailto:dkaanbozkurt@gmail.com)
 
 # Interests
+[![](https://img.shields.io/badge/C%23-cD1?style=for-the-badge&logo=C%20Sharp)]()
+[![](https://img.shields.io/badge/Unity-cD1?style=for-the-badge&logo=Unity)]()
+[![](http://img.shields.io/badge/C++-cD1?style=for-the-badge&logo=C%2B%2B)]()
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
 [![](https://img.shields.io/badge/SciPy-cD1?style=for-the-badge&logo=SciPy)]()
 [![](https://img.shields.io/badge/pytorch-cD1?style=for-the-badge&logo=Pytorch)]()
 [![](https://img.shields.io/badge/NumPy-cD1?style=for-the-badge&logo=NumPy)]()
-[![](http://img.shields.io/badge/C++-cD1?style=for-the-badge&logo=C%2B%2B)]()
-[![](https://img.shields.io/badge/C%23-cD1?style=for-the-badge&logo=C%20Sharp)]()
 [![](https://img.shields.io/badge/C-cD1?style=for-the-badge&logo=C)]()
-[![](https://img.shields.io/badge/Unity-cD1?style=for-the-badge&logo=Unity)]()
 [![](https://img.shields.io/badge/Octave-cD1?style=for-the-badge&logo=Octave)]()
 [![](https://img.shields.io/badge/Photoshop-cD1?style=for-the-badge&logo=Adobe%20Photoshop)]()
