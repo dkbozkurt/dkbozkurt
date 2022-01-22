@@ -13,7 +13,7 @@
 # Interests
 [![](https://img.shields.io/badge/C%23-cD1?style=for-the-badge&logo=C%20Sharp)]()
 [![](https://img.shields.io/badge/Unity-cD1?style=for-the-badge&logo=Unity)]()
-[![](https://img.shields.io/badge/.Net-cD1?style=for-the-badge&logo=.Net)]()
+[![](https://img.shields.io/badge/.Net-cD1?style=for-the-badge&logo=.Net&color=purple)]()
 [![](https://img.shields.io/badge/Blender-cD1?style=for-the-badge&logo=Blender)]()
 [![](http://img.shields.io/badge/C++-cD1?style=for-the-badge&logo=C%2B%2B)]()
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
