@@ -11,7 +11,7 @@
 [![Mail Badge](https://img.shields.io/badge/dkaanbozkurt@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dkaanbozkurt@gmail.com)](mailto:dkaanbozkurt@gmail.com)
 
 # Interests
-[![](https://img.shields.io/badge/C%23-cD1?style=for-the-badge&logo=C%20Sharp&color=purple)]()
+[![](https://img.shields.io/badge/C%23-cD1?style=for-the-badge&logo=C%20Sharp&color=purple)](https://www.linkedin.com/in/dkbozkurt/)
 [![](https://img.shields.io/badge/.Net-cD1?style=for-the-badge&logo=.Net&color=purple)]()
 [![](https://img.shields.io/badge/Unity-cD1?style=for-the-badge&logo=Unity&color=black)]()
 [![](https://img.shields.io/badge/Blender-cD1?style=for-the-badge&logo=Blender&color=white)]()
