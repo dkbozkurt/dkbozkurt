@@ -14,7 +14,7 @@
 [![](https://img.shields.io/badge/C%23-cD1?style=for-the-badge&logo=C%20Sharp&color=purple)](https://www.linkedin.com/in/dkbozkurt/)
 [![](https://img.shields.io/badge/.Net-cD1?style=for-the-badge&logo=.Net&color=purple)]()
 [![](https://img.shields.io/badge/Unity-cD1?style=for-the-badge&logo=Unity&color=black)]()
-[![](https://img.shields.io/badge/Blender-cD1?style=for-the-badge&logo=Blender&color=white)]()
+[![](https://img.shields.io/badge/JavaScript-cD1?style=for-the-badge&logo=JavaScript&color=yellow)]()
 [![](http://img.shields.io/badge/C++-cD1?style=for-the-badge&logo=C%2B%2B&color=blue)]()
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python&color=yellow)]()
 [![](https://img.shields.io/badge/SciPy-cD1?style=for-the-badge&logo=SciPy&color=darkblue)]()
