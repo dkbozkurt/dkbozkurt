@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dkbozkurt" alt="dkbozkurt" /> </p>
 
 [![](https://img.shields.io/badge/website-%230077B5.svg?&style=for-the-badge&logo=google&color=white)](https://www.linkedin.com/in/dkbozkurt/)
+<span style="white-space: pre-line">@Model.CommentText</span>
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dkbozkurt/)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/dkbozkurt)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dkbozkurt/)
