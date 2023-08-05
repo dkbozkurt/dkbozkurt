@@ -1,3 +1,4 @@
+<div align = "center">
 <h1 align="center">Hi 👋, I'm Doğukan Kaan Bozkurt</h1>
 <h3 align="center">A software engineer who is currently dedicated to design 🎨</h3>
 
@@ -86,7 +87,7 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://i.redd.it/tu3gt6ysfxq71.png" alt="unity" width="40" height="40"/> </a> 
 <a href="https://developer.adobe.com/photoshop/uxp/2022/guides/devtool/" target="_blank" rel="noreferrer"> <img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/AdobeUXPDevTool.png" alt="uxpDevTool" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
+</div>
 <!--
 <p align='center'> <img src="https://github-readme-stats.vercel.app/api?username=dkbozkurt&show_icons=true&locale=en"
 alt="dkbozkurt" /> </p>
