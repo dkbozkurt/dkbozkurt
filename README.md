@@ -60,6 +60,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://luna.is.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/luna-logo.png" alt="luna" width="40" height="40"/> </a> 
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongoDB" width="40" height="40"/> </a> 
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>   
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>   
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" alt="numpy" width="40" height="40"/> </a> 
