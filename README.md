@@ -15,7 +15,6 @@
 <a href="https://www.behance.net/dkbozkurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/dkbozkurt" height="30" width="40" /></a>
 <a href="https://twitter.com/dkbozkurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dkbozkurt" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dkbozkurt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dkbozkurt/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dkaanbozkurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dkaanbozkurt" height="30" width="40" /></a>
 
 </p>
 
