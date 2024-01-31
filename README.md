@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dkbozkurt&label=Profile%20views&color=0e75b6&style=flat" alt="dkbozkurt" /> </p>
 
-- 🌱 I’m currently learning **Blender**
+- 🌱 I’m currently working on **TypeScript** and **ThreeJS**
 
 - ⚡ Fun fact **I am aka Sushi monster 🍣**
 
