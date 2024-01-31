@@ -17,7 +17,7 @@
 <a href="https://www.instagram.com/dkbozkurt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dkbozkurt/" height="30" width="40" /></a>
 </p>
 
-[![](https://img.shields.io/badge/website-%230077B5.svg?&style=for-the-badge&logo=google&color=white)](https://dkbozkurt.github.io/)
+[![](https://img.shields.io/badge/website-%230077B5.svg?&style=for-the-badge&logo=google&color=white)](https://dkbozkurt.vercel.app/)
 <span style="white-space: pre-line"></span>
 [![Mail Badge](https://img.shields.io/badge/dkaanbozkurt@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dkaanbozkurt@gmail.com)](mailto:dkaanbozkurt@gmail.com)
 
