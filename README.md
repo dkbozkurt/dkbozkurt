@@ -39,7 +39,7 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://spline.design/" target="_blank" rel="noreferrer"> <img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/spline-logo.png" alt="spline" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://i.redd.it/tu3gt6ysfxq71.png" alt="unity" width="40" height="40"/> </a> 
 <a href="https://developer.adobe.com/photoshop/uxp/2022/guides/devtool/" target="_blank" rel="noreferrer"> <img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/AdobeUXPDevTool.png" alt="uxpDevTool" width="40" height="40"/> </a> 
 </p>
