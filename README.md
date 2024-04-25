@@ -40,6 +40,7 @@
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://spline.design/" target="_blank" rel="noreferrer"> <img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/spline-logo.png" alt="spline" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> </a> 
+<a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="threejs" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://i.redd.it/tu3gt6ysfxq71.png" alt="unity" width="40" height="40"/> </a> 
 <a href="https://developer.adobe.com/photoshop/uxp/2022/guides/devtool/" target="_blank" rel="noreferrer"> <img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/AdobeUXPDevTool.png" alt="uxpDevTool" width="40" height="40"/> </a> 
@@ -51,7 +52,6 @@
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongoDB" width="40" height="40"/> </a> 
 <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="threejs" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Technologies I have worked on in the past:</h3>
