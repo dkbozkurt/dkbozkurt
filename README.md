@@ -43,6 +43,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://i.redd.it/tu3gt6ysfxq71.png" alt="unity" width="40" height="40"/> </a> 
 <a href="https://developer.adobe.com/photoshop/uxp/2022/guides/devtool/" target="_blank" rel="noreferrer"> <img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/AdobeUXPDevTool.png" alt="uxpDevTool" width="40" height="40"/> </a> 
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">We`re trying to get to know each other:</h3>
