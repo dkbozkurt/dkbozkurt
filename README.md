@@ -39,6 +39,7 @@
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>   
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://rollupjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/rollup/rollup-original.svg" alt="roolupjs" width="40" height="40"/> </a>
 <a href="https://spline.design/" target="_blank" rel="noreferrer"> <img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/spline-logo.png" alt="spline" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="threejs" width="40" height="40"/> </a> 
