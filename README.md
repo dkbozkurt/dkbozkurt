@@ -4,10 +4,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dkbozkurt&label=Profile%20views&color=0e75b6&style=flat" alt="dkbozkurt" /> </p>
 <br/>
 <div align="center" id="social">
-<a href="https://dkbozkurt.vercel.app/" target="_blank"><img align="center" src="https://github.com/dkbozkurt/dkbozkurt/blob/master/web.png" alt="https://dkbozkurt.vercel.app/" height="30" width="40" /></a>
-<a href="mailto:dkaanbozkurt@gmail.com" target="_blank"><img align="center" src="https://github.com/dkbozkurt/dkbozkurt/blob/master/mail.png" alt="dkaanbozkurt@gmail.com" height="30" width="40" /></a>
+<a href="https://dkbozkurt.vercel.app/" target="_blank"><img align="center" src="https://github.com/dkbozkurt/dkbozkurt/blob/master/web.png" alt="https://dkbozkurt.vercel.app/" height="40" width="40" /></a>
+<a href="mailto:dkaanbozkurt@gmail.com" target="_blank"><img align="center" src="https://github.com/dkbozkurt/dkbozkurt/blob/master/mail.png" alt="dkaanbozkurt@gmail.com" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/dkbozkurt/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dkbozkurt/" height="30" width="40" /></a>
-<a href="https://www.behance.net/dkbozkurt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/dkbozkurt" height="30" width="40" /></a>
+<a href="https://www.behance.net/dkbozkurt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/dkbozkurt" height="35" width="40" /></a>
 </div>
 <hr/>
 
