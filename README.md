@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Doğukan Kaan Bozkurt</h1>
 <h3 align="center">A software engineer who is currently dedicated to design 🎨</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dkbozkurt&label=Profile%20views&color=0e75b6&style=flat" alt="dkbozkurt" /> </p>
-<br/>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=dkbozkurt&label=Profile%20views&color=0e75b6&style=flat" alt="dkbozkurt" /> </p> -->
 <div align="center" id="social">
 <a href="https://dkbozkurt.vercel.app/" target="_blank"><img align="center" src="https://github.com/dkbozkurt/dkbozkurt/blob/master/web.png" alt="https://dkbozkurt.vercel.app/" height="40" width="40" /></a>
 <a href="mailto:dkaanbozkurt@gmail.com" target="_blank"><img align="center" src="https://github.com/dkbozkurt/dkbozkurt/blob/master/mail.png" alt="dkaanbozkurt@gmail.com" height="40" width="40" /></a>
