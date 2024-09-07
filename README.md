@@ -27,7 +27,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </div>
@@ -47,11 +46,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/express-logo.png" alt="expressjs" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="40" height="40"/>
-</div>
-
-<br/>
-
-<div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mySQL" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongoDB" width="40" height="40"/>
 </div>
@@ -63,7 +57,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/rollup/rollup-original.svg" alt="roolupjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </div>
 
 <br/>
@@ -71,13 +64,27 @@
 <div align="center">
 <img src="https://i.redd.it/tu3gt6ysfxq71.png" alt="unity" width="40" height="40"/>
 <img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/luna-logo.png" alt="luna" width="40" height="40"/>
+</div>
+
+<br/>
+
+<div align="center">
 <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="threejs" width="40" height="40"/>
-<img src="https://cdn.phaser.io/images/logo/phaser-logo.svg" alt="phaserjs" width="40" height="40"/>
+<img src="https://github.com/schteppe/cannon.js/blob/master/images/motionstates.png" alt="CannonJS" width="40" height="40"/>
+<img src="https://files.pixijs.download/branding/pixijs-logo.svg" alt="pixijs" width="40" height="40"/>
 <img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/gsap-logo.png" alt="gsap" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" alt="GLSL" width="40" height="40"/>
+<img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/tweenJS.png" alt="tweenJS" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="framerMotion" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactThreeFiber" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
+</div>
+
+<br/>
+
+<div align="center">
 <img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/extendscript_logo.png" alt="extendScript" width="40" height="40"/>
 <img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/AdobeUXPDevTool.png" alt="uxpDevTool" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
 </div>
 
 <br/>
@@ -85,11 +92,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
 <img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/spline-logo.png" alt="spline" width="40" height="40"/>
-</div>
-
-<br/>
-
-<div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="premierpro" width="40" height="40"/>
