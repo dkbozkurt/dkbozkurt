@@ -71,7 +71,7 @@
 <br/>
 
 <div align="center">
-<img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="threejs" width="40" height="40"/>
+<img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/threejs.png" alt="threejs" width="40" height="40"/>
 <img src="https://github.com/schteppe/cannon.js/blob/master/images/motionstates.png" alt="CannonJS" width="40" height="40"/>
 <img src="https://files.pixijs.download/branding/pixijs-logo.svg" alt="pixijs" width="40" height="40"/>
 <img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/gsap-logo.png" alt="gsap" width="40" height="40"/>
