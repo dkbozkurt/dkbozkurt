@@ -6,7 +6,6 @@
 <a href="https://dkbozkurt.vercel.app/" target="_blank"><img align="center" src="https://github.com/dkbozkurt/dkbozkurt/blob/master/web.png" alt="https://dkbozkurt.vercel.app/" height="40" width="40" /></a>
 <a href="mailto:dkaanbozkurt@gmail.com" target="_blank"><img align="center" src="https://github.com/dkbozkurt/dkbozkurt/blob/master/mail.png" alt="dkaanbozkurt@gmail.com" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/dkbozkurt/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dkbozkurt/" height="30" width="40" /></a>
-<a href="https://www.behance.net/dkbozkurt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/dkbozkurt" height="35" width="40" /></a>
 </div>
 <hr/>
 
@@ -26,10 +25,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/extendscript_logo.png" alt="extendScript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </div>
 
 <br/>
@@ -38,17 +35,28 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 </div>
 
 <br/>
 
 <div align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/express-logo.png" alt="expressjs" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="40" height="40"/>
+<!-- restful -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mySQL" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg" alt="postgreSQL" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongoDB" width="40" height="40"/>
+</div>
+
+<br/>
+<div align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
 </div>
 
 <br/>
@@ -58,7 +66,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/rollup/rollup-original.svg" alt="roolupjs" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
 <img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/AdobeUXPDevTool.png" alt="uxpDevTool" width="40" height="40"/>
 </div>
 
@@ -74,15 +81,10 @@
 
 <div align="center">
 <img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/threejs.png" alt="threejs" width="40" height="40"/>
-<img src="https://github.com/schteppe/cannon.js/blob/master/images/motionstates.png" alt="CannonJS" width="40" height="40"/>
 <img src="https://files.pixijs.download/branding/pixijs-logo.svg" alt="pixijs" width="40" height="40"/>
 <img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/gsap-logo.png" alt="gsap" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" alt="GLSL" width="40" height="40"/>
-<img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/tweenJS.png" alt="UIkit" width="40" height="40" />
-<img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/UIKit-logo.png" alt="tweenJS" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="framerMotion" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactThreeFiber" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
+
 </div>
 
 <br/>
