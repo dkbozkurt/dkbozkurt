@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Doğukan Kaan Bozkurt</h1>
-<h3 align="center">A software engineer who is currently dedicated to design 🎨</h3>
+<h3 align="center">A software engineer who is dedicated to maps.🗺️</h3>
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=dkbozkurt&label=Profile%20views&color=0e75b6&style=flat" alt="dkbozkurt" /> </p> -->
 <div align="center" id="social">
@@ -11,7 +11,7 @@
 
 <div align="left" id="aboutMe">
 
-- 🌱 I’m currently working on **TypeScript** and **ThreeJS**
+- 🌱 I’m currently working on **ThreeJS** and **PixiJS**
 
 - ⚡ Fun fact **I am aka Sushi monster 🍣**
 
@@ -65,6 +65,7 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
 <img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/AdobeUXPDevTool.png" alt="uxpDevTool" width="40" height="40"/>
 </div>
 
@@ -81,6 +82,8 @@
 <div align="center">
 <img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/threejs.png" alt="threejs" width="40" height="40"/>
 <img src="https://files.pixijs.download/branding/pixijs-logo.svg" alt="pixijs" width="40" height="40"/>
+<img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/gsap-logo.png" alt="gsap" width="40" height="40"/>
+<img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/tweenJS.png" alt="tweenjs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactThreeFiber" width="40" height="40"/>
 
 </div>
