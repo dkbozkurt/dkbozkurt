@@ -37,6 +37,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/>
 </div>
 
 <br/>
@@ -45,7 +46,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/express-logo.png" alt="expressjs" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mySQL" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg" alt="postgreSQL" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongoDB" width="40" height="40"/>
@@ -57,7 +57,7 @@
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/> -->
 </div>
 
 <br/>
