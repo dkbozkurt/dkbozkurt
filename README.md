@@ -84,7 +84,6 @@
 <img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/threejs.png" alt="threejs" width="40" height="40"/>
 <img src="https://files.pixijs.download/branding/pixijs-logo.svg" alt="pixijs" width="40" height="40"/>
 <img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/gsap-logo.png" alt="gsap" width="40" height="40"/>
-<img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/tweenJS.png" alt="tweenjs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactThreeFiber" width="40" height="40"/>
 
 </div>
