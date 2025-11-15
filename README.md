@@ -1,23 +1,21 @@
-<h1 align="center">Hi 👋, I'm Doğukan Kaan Bozkurt</h1>
-<h3 align="center">A software engineer who is dedicated to maps.🗺️</h3>
+<div align="center">
+  <img align="center" src="https://github.com/dkbozkurt/dkbozkurt/blob/master/header.svg" alt="dkbozkurt_header" width="1200" height="400" />
+</div>
 
+<div align="center" id="aboutMe">
+  <i>I’m also known as the Sushi Monster 🍣, and I’ve got a thing for maps and random geography stuff 🌍.<i>
+</div>
+
+<br/>
+ 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=dkbozkurt&label=Profile%20views&color=0e75b6&style=flat" alt="dkbozkurt" /> </p> -->
 <div align="center" id="social">
-<a href="https://dkbozkurt.vercel.app/" target="_blank"><img align="center" src="https://github.com/dkbozkurt/dkbozkurt/blob/master/web.png" alt="https://dkbozkurt.vercel.app/" height="40" width="40" /></a>
+<a href="https://dkbozkurt.vercel.app/" target="_blank"><img align="center" src="https://github.com/dkbozkurt/dkbozkurt/blob/master/www.png" alt="https://dkbozkurt.vercel.app/" height="40" width="40" /></a>
 <a href="mailto:dkaanbozkurt@gmail.com" target="_blank"><img align="center" src="https://github.com/dkbozkurt/dkbozkurt/blob/master/mail.png" alt="dkaanbozkurt@gmail.com" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/dkbozkurt/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dkbozkurt/" height="30" width="40" /></a>
 </div>
 <hr/>
 
-<div align="left" id="aboutMe">
-
-- 🌱 I’m currently working on **ThreeJS** and **PixiJS**
-
-- ⚡ Fun fact **I am aka Sushi monster 🍣**
-
-- 🌍 I like <i>maps</i> and stuff.
- 
-</div>
 
 <h2 align="center">Tech Stack</h3>
 
@@ -29,8 +27,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </div>
 
-<br/>
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -39,8 +35,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/>
 </div>
-
-<br/>
 
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="40" height="40"/>
@@ -53,14 +47,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
 </div>
 
-<br/>
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/>
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/> -->
 </div>
-
-<br/>
 
 <div align="center">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -70,25 +61,18 @@
 <img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/AdobeUXPDevTool.png" alt="uxpDevTool" width="40" height="40"/>
 </div>
 
-<br/>
-
 <div align="center">
 <img src="https://i.redd.it/tu3gt6ysfxq71.png" alt="unity" width="40" height="40"/>
 <img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/luna-logo.png" alt="luna" width="40" height="40"/>
 <img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/cocosLogo.png" alt="cocos" width="40" height="40"/>
 </div>
 
-<br/>
-
 <div align="center">
 <img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/threejs.png" alt="threejs" width="40" height="40"/>
 <img src="https://files.pixijs.download/branding/pixijs-logo.svg" alt="pixijs" width="40" height="40"/>
 <img src="https://github.com/dkbozkurt/dkbozkurt/blob/master/gsap-logo.png" alt="gsap" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactThreeFiber" width="40" height="40"/>
-
 </div>
-
-<br/>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
