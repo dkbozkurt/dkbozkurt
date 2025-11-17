@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" src="https://github.com/dkbozkurt/dkbozkurt/blob/master/dkbozkurt_github_header.png" alt="dkbozkurt_header" width="1200" height="400" />
+  <img align="center" src="https://github.com/dkbozkurt/dkbozkurt/blob/master/dkbozkurt_github_header.png" alt="dkbozkurt_header" width="1200" height="600" />
 </div>
 
 <br/>
